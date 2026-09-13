@@ -6,6 +6,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PIP_NO_CACHE_DIR=1
 
 RUN pip install --upgrade pip
+RUN apt-get update && apt-get install -y git
 
 COPY ./requirements.txt /
 RUN pip install -r requirements.txt

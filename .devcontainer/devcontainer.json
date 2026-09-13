@@ -10,7 +10,8 @@
         "ms-python.python",
         "ms-toolsai.jupyter",
         "ms-toolsai.jupyter-renderers",
-        "mechatroner.rainbow-csv"
+        "mechatroner.rainbow-csv",
+        "microsoft.data-wrangler-vscode"
       ]
     }
   },

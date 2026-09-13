@@ -10,6 +10,7 @@ scipy==1.18.1
 matplotlib==3.11.1
 seaborn==0.13.2
 Pillow==12.3.0
+sympy
 
 # Apprentissage automatique
 scikit-learn==1.9.0
