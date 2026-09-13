@@ -1,4 +1,3 @@
-# 420-C74-SF - Techniques d'apprentissage automatique
 # Environnement Python des ateliers (Python 3.13)
 
 # Calcul scientifique et manipulation de données
