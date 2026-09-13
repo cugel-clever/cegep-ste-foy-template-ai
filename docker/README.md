@@ -1,6 +1,6 @@
 # Image Docker (JupyterLab)
 
-Environnement des ateliers du cours **420-C74-SF - Techniques d'apprentissage automatique**
+Environnement des ateliers IA
 (Python 3.13, versions des bibliothèques épinglées dans `requirements.txt`).
 
 ### Création de l'image à partir du Dockerfile
