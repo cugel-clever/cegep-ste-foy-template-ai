@@ -1,5 +1,5 @@
 {
-  "name": "420-C74-SF Techniques d'apprentissage automatique",
+  "name": "IA-cegep-ste-foy",
   "build": {
     "dockerfile": "../docker/Dockerfile",
     "context": "../docker"
