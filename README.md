@@ -4,10 +4,6 @@ Ateliers, programme *Spécialiste en solutions d'intelligence artificielle*.
 
 | Répertoire | Contenu |
 |---|---|
-| `nbs/` | Ateliers, un répertoire par chapitre (énoncé + version `-solution`) |
-| `data/` | Jeux de données, référencés depuis les notebooks par `../../data/` |
-| `evals/` | Évaluations, examens et projets |
-| `materials/` | Diapositives des chapitres (PDF) |
 | `docker/` | Image de l'environnement de travail |
 | `.devcontainer/` | Configuration Dev Container (VS Code) |
 
